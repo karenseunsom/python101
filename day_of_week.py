@@ -13,4 +13,3 @@ if day == 5:
     print("Friday")
 if day == 6:
     print("Saturday")
-    
